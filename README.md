@@ -1,2 +1,2 @@
-# Big-Data-Analysis
-[Fall Semester 2020] 빅데이터 분석
+# Big Data Analysis
+## 2020 가을학기 빅데이터 분석  
